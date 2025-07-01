@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Pride and Prejudice (Chapter 1)",
+    "source": "https://www.gutenberg.org/files/1342/1342-0.txt",
+    "type": "txt"
+  },
+  {
+    "title": "Moby Dick (Chapter 1)",
+    "source": "https://www.gutenberg.org/files/2701/2701-0.txt",
+    "type": "txt"
+  },
+  {
+    "title": "Alice's Adventures in Wonderland (Full)",
+    "source": "https://www.gutenberg.org/files/11/11-0.txt",
+    "type": "txt"
+  },
+  {
+    "title": "The Adventures of Sherlock Holmes (Chapter 1)",
+    "source": "https://www.gutenberg.org/files/1661/1661-0.txt",
+    "type": "txt"
+  }
+]
